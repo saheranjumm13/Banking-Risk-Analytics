@@ -1,0 +1,44 @@
+{
+  "name": "Banking Risk Analytics - Professional",
+  "dataColors": [
+    "#1F4E78",
+    "#2E75B6",
+    "#00A6A6",
+    "#F4B183",
+    "#C00000",
+    "#70AD47",
+    "#5B9BD5",
+    "#7F8FA6"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#1F2937",
+  "tableAccent": "#1F4E78",
+  "good": "#70AD47",
+  "neutral": "#F4B183",
+  "bad": "#C00000",
+  "maximum": "#C00000",
+  "minimum": "#70AD47",
+  "center": "#F4B183",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 18,
+      "color": "#17365D"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#1F2937"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#17365D"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#4B5563"
+    }
+  }
+}
