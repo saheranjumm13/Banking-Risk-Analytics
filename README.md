@@ -337,6 +337,9 @@ MySQL Server 8.0
 ```text
 banking_risk
 ```
+MySQL username: root
+Database: banking_risk
+Password:MySQL@12345
 
 The project uses MySQL Workbench for database management and SQL analysis.
 
